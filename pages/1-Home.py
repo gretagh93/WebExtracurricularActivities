@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.markdown("# Extraescolar Bananas 🐒")
+st.markdown("Extraescolar Bananas")
 
 if st.button("Matrícula"):
     st.switch_page("pages/2-Matricula.py")
