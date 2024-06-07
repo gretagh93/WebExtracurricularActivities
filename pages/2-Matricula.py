@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.markdown("## Matrícula")
 
 if st.button("Home"):
